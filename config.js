@@ -11,7 +11,7 @@ global.owner =
 
 
 
- // ['6283820073017', '436506665652696', '6285240750713']
+ // ['918547827783', '919544685703', '919544685703']
 
   // [number, dia creator/owner?, dia developer?]
 // Put your number here
